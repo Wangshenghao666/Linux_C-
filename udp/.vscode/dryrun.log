@@ -1,0 +1,5 @@
+make: Entering directory `/home/WSH/wangshenghao/102/lesson20/udp'
+g++ -o udp_client udp_client.cc -std=c++11
+g++ -o udp_server udp_server.cc -std=c++11
+make: Leaving directory `/home/WSH/wangshenghao/102/lesson20/udp'
+ 
