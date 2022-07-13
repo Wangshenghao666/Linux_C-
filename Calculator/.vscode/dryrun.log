@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/home/WSH/wangshenghao/102/lesson21'
+make: Leaving directory `/home/WSH/wangshenghao/102/lesson21'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
