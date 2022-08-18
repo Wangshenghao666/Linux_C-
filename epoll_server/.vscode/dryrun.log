@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/home/WSH/wangshenghao/102/lesson25'
+g++ -o epoll_server epoll_server.cc -std=c++11
+make: Leaving directory `/home/WSH/wangshenghao/102/lesson25'
+ 
